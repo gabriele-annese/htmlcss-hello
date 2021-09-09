@@ -27,3 +27,9 @@
     margin-top: 20px;
 } 
 
+.footer__bar{
+    margin-top: 20px;
+    position: relative;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
